@@ -15,7 +15,7 @@ A = 0.20         # Recovery rate
 ETA = 0.08       # Adaptation rate
 GAMMA = 0.04     # Coupling between pressure deviation and sensitivity
 D = 0.05         # Effective physiological disturbance
-HOURS = 9        # Prediction horizon (fixed at ~8-10 hours)
+HOURS = 24       # Prediction horizon (fixed at ~8-10 hours)
 DT = 0.02        # Integration step size
 
 
